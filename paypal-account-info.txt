@@ -1,0 +1,21 @@
+Developer Account:
+Email: ehotelbooking@gmail.com
+Password: TheBigHotel2023
+
+
+https://www.sandbox.paypal.com/signin
+
+Sandbox - Personal Account:
+ehotel_sandbox@per.com
+TheBigHotel2023
+
+
+Sandbox - Business Account:
+ehotel_sandbox@biz.com
+TheBigHotel2023
+
+API Credentials:
+APP Name: APP_HOTEL_NEW
+Email: ehotel_sandbox@biz.com
+Client ID: AfCJ8VaUKbSSrkJTL7aXdkC1ocT0iiFiCrNCFIkrbfhckyTYgaYvMfhHbUuDgdZ8IVmSSghNTVl5U-SG
+Secret Key: EN0IuiYz4XIGUzkueTQy7Sh36AxqkleewP2ksdTl19hz78l_f7to2MYrXH7W6GS9veZQHLwfABj2TCLc
